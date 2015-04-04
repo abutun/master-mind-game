@@ -1,4 +1,4 @@
-first-and-app
+Master Mind Game written in C#
 =============
 
-First Android APP
+
